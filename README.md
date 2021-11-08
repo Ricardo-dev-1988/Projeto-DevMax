@@ -9,6 +9,7 @@ Neste projeto, foi eleborado uma página em que utilize além dos conteúdos de 
 Acesse clicando ➡️ [aqui.](https://ricardo-dev-1988.github.io/Projeto-Devmax/)
 <br/><br/>
 ## :bookmark: Layout
+Este projeto foi desenvolvido no curso da <strong>B7web</strong>, mas os direitos do design estão reservados ao criador <strong>Alexandr Bukin</strong>. <br/><br/>
 ![2](https://user-images.githubusercontent.com/93559261/140670360-1f510cc5-bba9-4713-bbf3-f8aa8e0f8edc.png)
 ![3](https://user-images.githubusercontent.com/93559261/140670541-0edc8199-4004-4a23-b482-fbc454b306aa.png)
 ![4](https://user-images.githubusercontent.com/93559261/140670551-3cc44a18-d673-42dd-bb14-b9c887ceb5fd.png)
